@@ -15,7 +15,7 @@ https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pico
 ## Πηγές για Python
 
 
-1. E.  Matthes, Python Crash Course, 3rd ed., No starch press, 2023, GitHub - ehmatthes/pcc_3e: Online resources for Python Crash Course, 3rd edition
+1. E.  Matthes, Python Crash Course, 3rd ed., No starch press, 2023, [GitHub - ehmatthes/pcc_3e: Online resources for Python Crash Course, 3rd edition](https://github.com/ehmatthes/pcc_3e)
 1. J. VanderPlas, A Whirlwind Tour of Python, A Whirlwind Tour of Python
 1. J. VanderPlas, PyData 101, PyData Seattle 2017
 1. J. VanderPlas, Reproducible Data Analysis in Jupyter, Part 1/10: Loading and Visualizing Data, YouTube Videos
