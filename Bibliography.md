@@ -5,6 +5,8 @@
 1. Fritzing - course, sketch, download: Σχεδίαση ηλεκτρονικών κυκλωμάτων,
 https://arduinofactory.fr/en/fritzing/
 
+1. Εγκατάσταση Jupyter, [Project Jupyter | Installing Jupyter](https://jupyter.org/install)
+
 ## Πηγές για MicroPython
 1. https://micropython.org/download/
 
