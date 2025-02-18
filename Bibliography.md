@@ -7,6 +7,9 @@ https://arduinofactory.fr/en/fritzing/
 
 1. Εγκατάσταση Jupyter, [Project Jupyter | Installing Jupyter](https://jupyter.org/install)
 
+1. Εγκατάσταση Micropython στο Jupyter,  https://pypi.org/project/jupyter_micropython_kernel/
+   
+
 ## Πηγές για MicroPython
 1. https://micropython.org/download/
 
