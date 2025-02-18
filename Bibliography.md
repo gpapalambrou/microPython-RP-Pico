@@ -5,6 +5,9 @@
 1. Fritzing - course, sketch, download: Σχεδίαση ηλεκτρονικών κυκλωμάτων,
 https://arduinofactory.fr/en/fritzing/
 
+## Πηγές για MicroPython
+1. https://micropython.org/download/
+
 
 ## Πηγές για Raspberry Pico 
 
