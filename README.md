@@ -1,5 +1,5 @@
 1. Μάθημα 1: Εισαγωγή
-- Διαδραστικός προγραμματισμός - Micropython & Raspberry Pico RP
+- Διαδραστικός προγραμματισμός - Micropython & Raspberry Pico RP2040/2350
 - REPL (Read-Evaluate-Print Loop) για άμεση εκτέλεση και δοκιμή κώδικα
 2. Μάθημα 2: GPIO και αισθητήρες
 - Έλεγχος ροής και λειτουργιών
