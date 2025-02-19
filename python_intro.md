@@ -9,7 +9,8 @@
 ```python
 temperature = 23.5  # Float
 is_active = True    # Boolean
-		
+
+
   * Basic Operators
 	- Arithmetic (+, -, *, /, %).
 	- Comparison (==, !=, <, >, <=, >=).
