@@ -1,9 +1,9 @@
 # Βασικές Γνώσεις σε Python
 
 
-# Fundamental Syntax and Operations
+## Fundamental Syntax and Operations
 
-## Variables and Data Types
+### Variables and Data Types
 - Understanding integers, floats, strings, booleans.
 - Variable assignment and naming conventions.
 
@@ -12,11 +12,12 @@ temperature = 23.5  # Float
 is_active = True    # Boolean
 ```
 
-## Basic Operators
-# Arithmetic (+, -, *, /, %).
-# Comparison (==, !=, <, >, <=, >=).
-# Logical (and, or, not).
+### Basic Operators
+- Arithmetic (+, -, *, /, %).
+- Comparison (==, !=, <, >, <=, >=).
+- Logical (and, or, not).
 
 ```python
 if score >= 90 and grade == 'A':
     print("Excellent work!")
+```
