@@ -15,6 +15,7 @@ is_active = True    # Boolean
 	- Comparison (==, !=, <, >, <=, >=).
 	- Logical (and, or, not).
 
+
 ```python
 if score >= 90 and grade == 'A':
     print("Excellent work!")
