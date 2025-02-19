@@ -2,7 +2,7 @@
 
 
 1. Fundamental Syntax and Operations
-	○ Variables and Data Types
+	* Variables and Data Types
 	- Understanding integers, floats, strings, booleans.
 	- Variable assignment and naming conventions.
   
