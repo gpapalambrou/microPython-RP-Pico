@@ -23,7 +23,7 @@ if score >= 90 and grade == 'A':
 ```
 
 ## Control Flow
-	### Conditional Statements
+### Conditional Statements
  - Using if, elif, and else to make decisions in code.
  - 
 ```python
@@ -32,8 +32,8 @@ if moisture_level < threshold:
 else:
     stop_pump()
 ```		
-  ### Loops
-	- For Loops: Iterating over sequences or ranges.
+### Loops
+- For Loops: Iterating over sequences or ranges.
 
 ```python
 for i in range(5):
