@@ -9,6 +9,9 @@ https://arduinofactory.fr/en/fritzing/
 
 1. Εγκατάσταση Micropython στο Jupyter,  https://pypi.org/project/jupyter_micropython_kernel/
    
+1. Programmable I/O (PIO) with MicroPython. "Nine Pico PIO Wats with MicroPython (Part 1)" - Raspberry Pi Forums, https://medium.com/towards-data-science/nine-pico-pio-wats-with-micropython-part-1-82b80fb84473
+
+   
 
 ## Πηγές για MicroPython
 1. https://micropython.org/download/
