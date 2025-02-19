@@ -9,7 +9,7 @@ https://arduinofactory.fr/en/fritzing/
 
 1. Εγκατάσταση Micropython στο Jupyter,  https://pypi.org/project/jupyter_micropython_kernel/
    
-1. Carl Kadie, Nine Pico PIO Wats with MicroPython (Part 1), [https://medium.com/towards-data-science/nine-pico-pio-wats-with-micropython-part-1-82b80fb84473]
+1. Carl Kadie, [Nine Pico PIO Wats with MicroPython (Part 1)](https://medium.com/towards-data-science/nine-pico-pio-wats-with-micropython-part-1-82b80fb84473)
 
    
 
