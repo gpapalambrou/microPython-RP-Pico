@@ -46,3 +46,20 @@ while not button_pressed:
     check_sensor()
 ```
 
+## Functions
+### Defining and Calling Functions
+- Creating reusable blocks of code.
+
+```python
+def read_temperature():
+    return sensor.read_temp()
+```
+### Parameters and Return Values
+- Passing arguments and capturing output.
+```python
+def calculate_area(width, height):
+    return width * height
+```
+
+
+
