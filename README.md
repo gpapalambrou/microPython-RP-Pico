@@ -36,6 +36,7 @@ Email: george.papalambrou@lme.ntua.gr
 Η ύλη των μαθημάτων για το ακαδημ. έτος 2025 παρουσιάζεται παρακάτω:
 
 1. Μάθημα 1: Εισαγωγή
+- Η πλατφόρμα Raspberry Pico 2040/2350
 - Διαδραστικός προγραμματισμός - Micropython & Raspberry Pico RP2040/2350
 - REPL (Read-Evaluate-Print Loop) για άμεση εκτέλεση και δοκιμή κώδικα
 2. Μάθημα 2: GPIO και αισθητήρες
