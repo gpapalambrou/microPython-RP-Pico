@@ -6,7 +6,8 @@
 	- Understanding integers, floats, strings, booleans.
 	- Variable assignment and naming conventions.
   
-```temperature = 23.5  # Float
+\```python
+temperature = 23.5  # Float
 is_active = True    # Boolean
 		
   * Basic Operators
