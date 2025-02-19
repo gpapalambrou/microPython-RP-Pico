@@ -12,6 +12,7 @@ https://arduinofactory.fr/en/fritzing/
 
 ## Πηγές για MicroPython
 1. https://micropython.org/download/
+1. https://www.raspberrypi.com/documentation/microcontrollers/micropython.html#what-is-micropython
 
 
 ## Πηγές για Raspberry Pico 
