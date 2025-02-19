@@ -13,10 +13,9 @@ is_active = True    # Boolean
 
 
 ## Basic Operators
-- Arithmetic (+, -, *, /, %).
-- Comparison (==, !=, <, >, <=, >=).
-- Logical (and, or, not).
-
+# Arithmetic (+, -, *, /, %).
+# Comparison (==, !=, <, >, <=, >=).
+# Logical (and, or, not).
 
 ```python
 if score >= 90 and grade == 'A':
