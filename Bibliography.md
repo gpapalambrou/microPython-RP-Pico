@@ -23,7 +23,7 @@ https://arduinofactory.fr/en/fritzing/
 1. Pico-series Microcontrollers - Raspberry Pi Documentation,
 https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pico-1-family
 
-1. Gareth Halfacree, Ben Everard, Get Started with MicroPython on Raspberry Pi Pico, 2021, [free pdf](https://www.dbooks.org/get-started-with-micropython-on-raspberry-pi-pico-1912047861/#:~:text=You%20can%20download%20Get%20Started%20with%20MicroPython%20on,is%20a%20new%20low-cost%2C%20high-performance%20microcontroller%20board%20wit)
+1. G. Halfacree, B. Everard, Get Started with MicroPython on Raspberry Pi Pico, 2021, [free pdf](https://www.dbooks.org/get-started-with-micropython-on-raspberry-pi-pico-1912047861/#:~:text=You%20can%20download%20Get%20Started%20with%20MicroPython%20on,is%20a%20new%20low-cost%2C%20high-performance%20microcontroller%20board%20wit)
 
 
 ## Δ. Πηγές για Python
