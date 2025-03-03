@@ -62,6 +62,7 @@ Email: george.papalambrou@lme.ntua.gr
 **Μάθημα 6**: Homework 2025
 - Ενσωμάτωση εννοιών
 - Συνδυασμός όλων των δεξιοτήτων για το σχεδιασμό, την ανάπτυξη και την αντιμετώπιση προβλημάτων ενός ολοκληρωμένου έργου με χρήση μικροελεγκτών
+- Πλακέτες: MPU6050-Accelerometer, SS49-Magnetic sensor, INA219-Current sensor, K-thermocouple & MAX31856.
 
 
 
