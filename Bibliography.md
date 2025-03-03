@@ -1,6 +1,6 @@
 # Βιβλιογραφία
 
-## Γενικά
+## Α. Γενικά
 
 1. Fritzing - course, sketch, download: Σχεδίαση ηλεκτρονικών κυκλωμάτων,
 https://arduinofactory.fr/en/fritzing/
@@ -13,12 +13,12 @@ https://arduinofactory.fr/en/fritzing/
 
    
 
-## Πηγές για MicroPython
+## Β. Πηγές για MicroPython
 1. https://micropython.org/download/
 1. https://www.raspberrypi.com/documentation/microcontrollers/micropython.html#what-is-micropython
 
 
-## Πηγές για Raspberry Pico 
+## Γ. Πηγές για Raspberry Pico 
 
 1. Pico-series Microcontrollers - Raspberry Pi Documentation,
 https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pico-1-family
@@ -26,7 +26,7 @@ https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pico
 1. Gareth Halfacree, Ben Everard, Get Started with MicroPython on Raspberry Pi Pico, 2021, [free pdf](https://www.dbooks.org/get-started-with-micropython-on-raspberry-pi-pico-1912047861/#:~:text=You%20can%20download%20Get%20Started%20with%20MicroPython%20on,is%20a%20new%20low-cost%2C%20high-performance%20microcontroller%20board%20wit)
 
 
-## Πηγές για Python
+## Δ. Πηγές για Python
 
 
 1. E.  Matthes, Python Crash Course, 3rd ed., No starch press, 2023, [GitHub - ehmatthes/pcc_3e: Online resources for Python Crash Course, 3rd edition](https://github.com/ehmatthes/pcc_3e)
