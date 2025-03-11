@@ -15,7 +15,7 @@ Email: george.papalambrou@lme.ntua.gr
 
 Η ύλη έχει χωριστεί σε 6 ενότητες-μαθήματα, με κύριο στόχο την άμεση επαφή των φοιτητών με τις έννοιες MicroPython και Raspberry Pico.
 
-
+<h2> ΤΟ ΥΛΙΚΟ ΕΙΝΑΙ ΔΙΑΘΕΣΙΜΟ ΣΤΙΣ ΣΕΛΙΔΕΣ JUPYTER (αρχεία .jupyter) </h2>
 
 
 
